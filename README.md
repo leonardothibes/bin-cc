@@ -33,6 +33,7 @@ Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao
 
 # Contribuidores
 
+- @leonardothibes
 - @jotafelipe
 - @ahonorato 
 - @renatoelias
