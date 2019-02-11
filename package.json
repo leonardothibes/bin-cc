@@ -1,7 +1,7 @@
 {
-  "name": "creditcard-identifier",
-  "version": "1.1.1",
-  "description": "Brazilian CreditCard Identifier",
+  "name": "node-creditcard-identifier",
+  "version": "1.1.2",
+  "description": "CreditCard Identifier",
   "main": "creditcard-identifier.js",
   "scripts": {
     "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
@@ -19,7 +19,7 @@
     "bin",
     "luhn"
   ],
-  "author": "Renato Elias, Eriki Herinque, Carlos Rios, Lohan Bohdavean",
+  "author": "Leonardo Thibes, Renato Elias, Eriki Herinque, Carlos Rios, Lohan Bohdavean",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/renatoelias/bin-cc/issues"
